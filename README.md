@@ -12,7 +12,7 @@ The dashboard helps track **pending invoices, outstanding amounts, and risk leve
 ##  Dashboard Preview
 
 ### Dashboard 1 — GST Outstanding & Risk Analysis
-![GST Dashboard](dashboard1.png)
+![GST Dashboard](dashboard13.png)
 
 ### Dashboard 2 — GST Amount & Gap Analysis
 ![GST Gap Dashboard](dashboard2.png)

@@ -137,7 +137,7 @@ This dashboard helps the company to:
 
 **Data Analytics & Power BI Developer**
 📍 Delhi, India
-🔗 Connect on LinkedIn
+🔗 www.linkedin.com/in/jentalsingh12
 
 ---
 

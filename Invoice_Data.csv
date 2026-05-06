@@ -1,0 +1,11 @@
+﻿Vendor_Name,Company_Name,Business_Line,Circle,Node_ID,Invoice_No,Invoice_Date,Basic_Amount,GST_Amount,Total_Amount,Aging_Days,Aging_Bucket,Risk_Level,Month_Year,Month_Num,Status
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHKVV-01,AV/33/2026-27,2026-01-08,680340,122461,802801,116,80+ Days,Critical,Jan-2026,202601,Pending
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHLIW-01,AV/34/2025-26,2026-01-23,243270,43788,287059,101,80+ Days,Critical,Jan-2026,202601,Pending
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHGGO-01,AV/43/2025-26,2026-01-30,764775,137659,902434,94,80+ Days,Critical,Jan-2026,202601,Pending
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHDVF-01,AV/45/2025-26,2026-02-04,347380,62528,409908,89,80+ Days,Critical,Feb-2026,202602,Pending
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,ROUT-111,AV/46/2025-26,2026-02-09,269500,48510,318010,84,80+ Days,Critical,Feb-2026,202602,Pending
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHADL-01,AV/47/2025-26,2026-02-11,491920,88545,580466,82,80+ Days,Critical,Feb-2026,202602,Pending
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHPAT-746,AV/48/2025-26,2026-02-25,331240,59623,390863,68,45-80 Days,Delayed,Feb-2026,202602,Pending
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHPPN-08,AV/49/2025-26,2026-03-09,167580,30164,197744,56,45-80 Days,Delayed,Mar-2026,202603,Pending
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHPAT-1334,AV/01/2026-27,2026-04-10,203580,36644,240224,24,Below 45 Days,Within 45 Days,Apr-2026,202604,Pending
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHPAT-572,AV/02/2026-27,2026-04-18,42840,7711,50551,16,Below 45 Days,Within 45 Days,Apr-2026,202604,Pending

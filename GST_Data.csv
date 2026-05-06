@@ -1,0 +1,20 @@
+﻿Vendor_Name,Company_Name,Business_Line,Circle,Node_ID,Invoice_No,Invoice_Date,Invoice_Amount,GST_Amount,GST_Paid_By_NIPL,GST_Status,Aging_Days,Aging_Bucket,Risk_Level,Month_Year,Month_Num
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHKVV-01,AV/33/2025-26,2026-01-08,680340,122416,0,Pending,116,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHWOA-01,AV/32/2025-26,2026-01-08,247544,44558,0,Pending,116,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHTII-01,AV/31/2025-26,2025-12-22,740520,133293,0,Pending,133,80+ Days,Critical,Dec-2025,202512
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BIPMM-01,AV/35/2025-26,2025-12-22,144480,26006,0,Pending,133,80+ Days,Critical,Dec-2025,202512
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHAND-15,AV/36/2025-26,2025-12-22,674820,121467,0,Pending,133,80+ Days,Critical,Dec-2025,202512
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHLIW-01,AV/34/2025-26,2026-01-23,243270,43788,0,Pending,101,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHBYA-12,AV/37/2025-26,2026-01-08,115010,207002,0,Pending,116,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHLMB-02,AV/38/2025-26,2026-01-09,136080,24494,0,Pending,115,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHMVK-01,AV/39/2025-26,2026-01-12,393800,464684,0,Pending,112,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BAMOR-02,AV/40/2025-26,2026-01-15,95850,17253,0,Pending,109,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHUMI-02,AV/41/2025-26,2026-01-27,408600,73548,0,Pending,97,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHREM-01,AV/42/2025-26,2026-01-27,353675,63661,0,Pending,97,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHGGO-01,AV/43/2025-26,2026-01-30,764775,137659,0,Pending,94,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHJKK-01,AV/44/2025-26,2026-01-30,425920,76665,0,Pending,94,80+ Days,Critical,Jan-2026,202601
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHDVF-01,AV/45/2025-26,2026-02-04,347380,65528,0,Pending,89,80+ Days,Critical,Feb-2026,202602
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,ROUTE-111,AV/46/2025-26,2026-02-09,269500,48510,0,Pending,84,80+ Days,Critical,Feb-2026,202602
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHADL-01,AV/47/2025-26,2026-02-11,491920,88540,0,Pending,82,80+ Days,Critical,Feb-2026,202602
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHPAT-746,AV/48/2025-26,2026-02-25,331240,59623,0,Pending,68,45-80 Days,Delayed,Feb-2026,202602
+M/S Avay Kumar,JIS Infrastructure Pvt. Ltd.,Civil Construction Works | Bihar Circle,Bihar,BHPPN-08,AV/49/2025-26,2026-03-09,167580,30164,0,Pending,56,45-80 Days,Delayed,Mar-2026,202603
